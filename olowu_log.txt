@@ -1,0 +1,64 @@
+2026-$m-12 07:05:1778583941 - Ether / IP / UDP 192.168.190.1:54501 > 239.255.255.250:1900 / Raw
+2026-$m-12 07:05:1778583946 - Ether / IP / UDP 192.168.190.1:54501 > 239.255.255.250:1900 / Raw
+2026-$m-12 07:05:1778583950 - Ether / IP / UDP 192.168.190.1:54501 > 239.255.255.250:1900 / Raw
+2026-$m-12 07:05:1778583951 - Ether / IP / UDP / mDNS Ans [b'']
+2026-$m-12 07:05:1778583953 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583953 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583954 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583954 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583954 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583954 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583954 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583955 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583955 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583956 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583957 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:05:1778583958 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:05:1778583958 - Ether / IPv6 / UDP fe80::dc25:b563:c8d0:2b58:53509 > ff02::c:3702 / Raw
+2026-$m-12 07:06:1778583960 - Ether / IP / UDP / mDNS Qry b'_sleep-proxy._udp.local.'
+2026-$m-12 07:06:1778583960 - Ether / IP / UDP 192.168.190.1:53508 > 239.255.255.250:3702 / Raw
+2026-$m-12 07:06:1778583961 - Ether / IP / UDP / NTP v4, client
+2026-$m-12 07:06:1778583965 - Ether / ARP who has 192.168.190.132 says 192.168.190.2 / Padding
+2026-$m-12 07:06:1778583965 - Ether / ARP is at 00:0c:29:92:92:0a says 192.168.190.132
+2026-$m-12 07:06:1778583965 - Ether / IP / UDP / NTP v4, server
+2026-$m-12 07:06:1778583970 - Ether / ARP who has 192.168.190.2 says 192.168.190.132
+2026-$m-12 07:06:1778583970 - Ether / ARP is at 00:50:56:e7:8f:87 says 192.168.190.2 / Padding
+2026-$m-12 07:06:1778583983 - Ether / IP / UDP / mDNS Ans [b'']
+2026-$m-12 07:06:1778583984 - Ether / IP / TCP 192.168.190.132:53866 > 34.107.243.93:https PA / Raw
+2026-$m-12 07:06:1778583984 - Ether / IP / TCP 34.107.243.93:https > 192.168.190.132:53866 A / Padding
+2026-$m-12 07:06:1778583984 - Ether / IP / TCP 34.107.243.93:https > 192.168.190.132:53866 PA / Raw
+2026-$m-12 07:06:1778583984 - Ether / IP / TCP 192.168.190.132:53866 > 34.107.243.93:https A
+2026-$m-12 07:06:1778583985 - Ether / IP / TCP 192.168.190.132:37812 > 199.232.53.91:https PA / Raw
+2026-$m-12 07:06:1778583985 - Ether / IP / TCP 199.232.53.91:https > 192.168.190.132:37812 A / Padding
+2026-$m-12 07:06:1778583986 - Ether / IP / TCP 199.232.53.91:https > 192.168.190.132:37812 PA / Raw
+2026-$m-12 07:06:1778583986 - Ether / IP / TCP 192.168.190.132:37812 > 199.232.53.91:https A
+2026-$m-12 07:06:1778583997 - Ether / ARP who has 192.168.190.133 says 192.168.190.1 / Padding
+2026-$m-12 07:06:1778583997 - Ether / IP / UDP / NTP v4, client
+2026-$m-12 07:06:1778584001 - Ether / IP / UDP / NTP v4, server
+2026-$m-12 07:07:1778584033 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584033 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584033 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584033 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584033 - Ether / IP / UDP / NTP v4, client
+2026-$m-12 07:07:1778584033 - Ether / IP / UDP / NTP v4, server
+2026-$m-12 07:07:1778584037 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584037 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584037 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584037 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584039 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584039 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584039 - Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584039 - Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+2026-$m-12 07:07:1778584042 - Ether / ARP who has 192.168.190.2 says 192.168.190.132
+2026-$m-12 07:07:1778584042 - Ether / ARP is at 00:50:56:e7:8f:87 says 192.168.190.2 / Padding
+2026-$m-12 07:07:1778584043 - Ether / IP / UDP / mDNS Qry b'_sleep-proxy._udp.local.'
+2026-$m-12 07:07:1778584048 - Ether / IP / UDP / mDNS Ans [b'']
+2026-$m-12 07:07:1778584051 - Ether / IP / TCP 192.168.190.132:53866 > 34.107.243.93:https PA / Raw
+2026-$m-12 07:07:1778584051 - Ether / IP / TCP 192.168.190.132:37812 > 199.232.53.91:https PA / Raw
+2026-$m-12 07:07:1778584051 - Ether / IP / TCP 34.107.243.93:https > 192.168.190.132:53866 A / Padding
+2026-$m-12 07:07:1778584051 - Ether / IP / TCP 199.232.53.91:https > 192.168.190.132:37812 A / Padding
+2026-$m-12 07:07:1778584051 - Ether / IP / TCP 34.107.243.93:https > 192.168.190.132:53866 PA / Raw
+2026-$m-12 07:29:1778585382 - Ether / IP / UDP / NTP v4, client
+2026-$m-12 07:29:1778585386 - Ether / IP / UDP / NTP v4, server
+2026-$m-12 07:29:1778585391 - Ether / ARP who has 192.168.190.2 says 192.168.190.132
+2026-$m-12 07:29:1778585391 - Ether / ARP is at 00:50:56:e7:8f:87 says 192.168.190.2 / Padding
