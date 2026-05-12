@@ -56,7 +56,7 @@ CodeAlpha_BasicNetworkSniffer/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/SKIDDO-cyber8/CodeAlpha_BasicNetworkSniffer.git
 cd CodeAlpha_BasicNetworkSniffer
 ```
 
