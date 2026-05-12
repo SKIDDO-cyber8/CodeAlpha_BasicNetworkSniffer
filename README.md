@@ -1,10 +1,9 @@
 # CodeAlpha_BasicNetworkSniffer
-OVERVIEW 
-Use this as your `README.md` for the GitHub project. It looks professional and internship-ready.
+
 
 # CodeAlpha Basic Network Sniffer
 
-## 📌 Overview
+##  Overview
 
 This project is a Basic Network Sniffer developed using Python and Scapy as part of the CodeAlpha Cyber Security Internship.
 
@@ -19,7 +18,7 @@ This project helped in understanding how data flows through a network and introd
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Live packet capturing
 * Detects TCP and UDP packets
@@ -35,19 +34,19 @@ This project helped in understanding how data flows through a network and introd
 * Python
 * Scapy
 * Kali Linux
-* VS Code
+
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 CodeAlpha_BasicNetworkSniffer/
 │
-├── sniffer.py
+├── olowu_sniffer.py
 ├── README.md
-├── packets.txt
-└── requirements.txt
+├──olowu_log.txt
+
 ```
 
 ---
@@ -70,7 +69,7 @@ pip install scapy
 ### 3. Run the Program
 
 ```bash
-sudo python3 sniffer.py
+sudo python3 olowu_sniffer.py
 ```
 
 ---
@@ -79,15 +78,15 @@ sudo python3 sniffer.py
 
 ```bash
 === New Packet Captured ===
-Source IP: 192.168.1.1
-Destination IP: 142.250.190.78
-Protocol: 6
-Protocol Type: TCP
+Packet number 1
+Source IP: 192.168.190.132
+Destination IP: 102.205.44.55
+Protocol Type: UDP
 ```
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 Through this project, I gained practical experience in:
 
@@ -99,7 +98,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## ⚠️ Ethical Use Disclaimer
+##  Ethical Use Disclaimer
 
 This tool was developed strictly for educational and ethical purposes only.
 
@@ -107,8 +106,6 @@ Use this program only on networks and devices you own or have permission to test
 
 ---
 
-## 👨‍💻 Author
 
-Samuel Olowu
 
 Cybersecurity & Ethical Hacking Enthusiast
